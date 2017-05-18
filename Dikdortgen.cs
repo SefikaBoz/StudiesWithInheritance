@@ -18,7 +18,7 @@ namespace Test
 
         public override void Mandatory()
         {
-            Console.WriteLine("Zorunlu metodu Dikdortgen sınıfında override edilsi");
+            Console.WriteLine("override mandatory");
         }
 }
 }
